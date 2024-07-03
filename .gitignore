@@ -31,3 +31,5 @@ target/
 
 # Ignore Mac system files
 .DS_Store
+
+src/main/resources/static
